@@ -12,7 +12,7 @@
   
 _______________________________________________________________________________________________________________________________
 
-<h3 align="center">Connect With Me:</h3>
+<h3 align="center">Connect With Me</h3>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/karthikeyancy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karthikeyancy" height="30" width="40" /></a>
   <a href="https://t.me/legendary_lonewolf" target="blank"><img align="center" src="https://github.com/psyclox/psyclox/assets/160267134/06b14b8c-f3a9-410b-a533-e7c49855e011" alt="legendary_lonewolf" height="50" width="50" /></a> 
