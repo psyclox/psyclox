@@ -1,3 +1,5 @@
+![cover](https://github.com/psyclox/psyclox/assets/160267134/87615d1c-f010-4e65-a816-bfdecef187e5)
+
 <h1 align="center">Hi I'm Karthikeyan (psyclox)</h1>
 <h3 align="center">A student from India | who is interested to identify the reason behind my obsession with programs</h3>
 
@@ -10,8 +12,8 @@
   
 _______________________________________________________________________________________________________________________________
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect With Me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/karthikeyancy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karthikeyancy" height="30" width="40" /></a>
   <a href="https://t.me/legendary_lonewolf" target="blank"><img align="center" src="https://github.com/psyclox/psyclox/assets/160267134/06b14b8c-f3a9-410b-a533-e7c49855e011" alt="legendary_lonewolf" height="50" width="50" /></a> 
 <a href="mailto:karthicycr@gmail.com" target="blank"><img align="center" src="https://github.com/psyclox/psyclox/assets/160267134/fa7e2c5b-966d-4925-b371-8b529da8cc73" alt="mailto:karthicycr@gmail.com" height="40" width="40" /></a>
@@ -30,12 +32,6 @@ ________________________________________________________________________________
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=psyclox&show_icons=true&theme=tokyonight&title_color=0a47ff&text_color=ffffff&hide_border=true&locale=en" alt="psyclox" /></p>
 
-<img align="right" height="150" src="https://github.com/psyclox/psyclox/assets/160267134/cb9941e6-0b7a-42fa-8c15-e920eb9f44d8"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/psyclox/psyclox/output/snake.svg" alt="Snake animation" />
-
-###
+<td><img align="center" height="150" src="https://github.com/psyclox/psyclox/assets/160267134/cb9941e6-0b7a-42fa-8c15-e920eb9f44d8" /></td>
+ <h3 align="center">Thank you for visiting psyclox </h3>
+  <h4 align="center">Have a nice day mate! </h4>
