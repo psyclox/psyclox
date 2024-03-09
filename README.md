@@ -21,10 +21,6 @@ ________________________________________________________________________________
 
 [![](https://visitcount.itsvg.in/api?id=psyclox&icon=8&color=9)](https://visitcount.itsvg.in)
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Psyclox&label=Profile%20Views&color=0&icon=8&pretty=true" />
-</a>
-
 
 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=psyclox&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
