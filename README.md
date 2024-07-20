@@ -45,13 +45,6 @@ ________________________________________________________________________________
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psyclox&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
 </p>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
 
 <td><img align="center" height="150" src="https://github.com/psyclox/psyclox/assets/160267134/cb9941e6-0b7a-42fa-8c15-e920eb9f44d8" /></td>
  <h3 align="center">Thank you for visiting psyclox </h3>
