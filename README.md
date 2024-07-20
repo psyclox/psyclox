@@ -3,7 +3,8 @@
 <h1 align="center">Hi I'm Karthikeyan </h1>
 <h3 align="center">A Engineering student | who is interested to identify the reason behind my obsession with programs</h3>
 <br>
-- 🔭 I’m currently working on     :  **ccna and ceh**
+
+- 🔭 I’m currently working on     :  **CCNA & CEH**
 
 - 🌱 I’m currently learning       :  **java, pentesting**
 
