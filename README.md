@@ -1,7 +1,7 @@
 ![cover](https://github.com/psyclox/psyclox/assets/160267134/87615d1c-f010-4e65-a816-bfdecef187e5)
 
 <h1 align="center">Hi I'm Karthikeyan </h1>
-<h3 align="center">A student from India | who is interested to identify the reason behind my obsession with programs</h3>
+<h3 align="center">A Engineering student | who is interested to identify the reason behind my obsession with programs</h3>
 <br>
 - 🔭 I’m currently working on     :  **image classifing predictive model**
 
