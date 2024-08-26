@@ -1,10 +1,8 @@
 ![cover](https://raw.githubusercontent.com/psyclox/psyclox-assets/main/doc/cover%20pic.jpg?token=GHSAT0AAAAAACWSOG23PDTRZST7FMUB3IGKZWMOLMQ)
 <br> ![](https://visitcount.itsvg.in/api?id=psyclox&icon=8&color=9)
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=24&letterSpacing=4px&duration=3300&pause=8000&color=A716FF&center=true&width=435&lines=KARTHIKEYAN;PSYCLOX"/></a>
-</p>
-<h3 align="center">Identifying the reason behind my obsession with  cyber-world exploits </h3>
-<br>
+ <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=24&letterSpacing=4px&duration=3300&pause=5000&color=A716FF&center=true&width=435&lines=KARTHIKEYAN;PSYCLOX"/></a>
+</p><p align="center"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=23&letterSpacing=4px&duration=1200&pause=1000&color=A716FF&background=FF000000&center=true&multiline=true&repeat=false&width=435&lines=Identifying+the+reason+behind+"  /></a></p><p align="center"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=23&letterSpacing=4px&duration=1200&pause=1000&color=A716FF&background=FF000000&center=true&multiline=true&repeat=false&width=435&lines=obsession+with+cyber-world+exploits"  /></a></p><br>
 <h4 align="center">
 🔭  I'M CURRENTLY WORKING ON </h4><br><p align="center"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=24&letterSpacing=4px&duration=2500&pause=2500&color=A716FF&center=true&width=435&lines=CCNA;CEH;CPENT"/p>
 
