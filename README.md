@@ -20,7 +20,7 @@ ________________________________________________________________________________
 <p align="center">
 <a href="https://www.linkedin.com/in/karthikeyaneh" target="blank"><img align="center" src="https://raw.githubusercontent.com/psyclox/psyclox-assets/main/doc/linked-in-logo.png" alt="https://www.linkedin.com/in/karthikeyancy" height="40" width="40" /></a> ㅤㅤ
   <a href="https://t.me/legendary_lonewolf" target="blank"><img align="center" src="https://raw.githubusercontent.com/psyclox/psyclox-assets/main/doc/teleg%20meterial%20logo%20psyclox.png" alt="legendary_lonewolf" height="40" width="40" /></a> ㅤㅤ
-<a href="mailto:karthikeyaneh@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/psyclox/psyclox-assets/main/doc/gmail-psyclox.png" alt="mailto:karthicycr@gmail.com" height="40" width="40" /></a>
+<a href="mailto:karthikeyaneh@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/psyclox/psyclox-assets/main/doc/gmail-psyclox%20(1).png" alt="mailto:karthicycr@gmail.com" height="40" width="40" /></a>
 </p>
 
 
