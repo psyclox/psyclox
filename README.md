@@ -5,15 +5,14 @@
 </p>
 
   
-<h3 align="center"> the reason behind my obsession with </h3>
+<h3 align="center">Identifying the reason behind my obsession with  real-world exploits </h3>
 <br>
 
-- 🔭 I’m currently working on  : <br><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=24&letterSpacing=4px&duration=3000&pause=3000&color=A716FF&center=true&width=435&lines=%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4CCNA;%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4CEH" /></a>
+- 🔭 I’m currently working on  : <br><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=24&letterSpacing=4px&duration=3000&pause=3000&color=A716FF&center=true&width=435&lines=%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4CCNA;%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4CEH;%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4CPENT" /></a>
 
-- 🌱 I’m currently learning       :  **java, pentesting**
+- 🌱 I’m currently learning       :  <br><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=24&letterSpacing=4px&duration=2000&pause=3000&color=A716FF&center=true&width=435&lines=%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4JAVA;%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4PENTESTING;%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4PTES" /></a>
 
-- 💬 Ask me about                 :  **vulnerability analysis and pentesting | Designing | Vector/digitalart**
-
+- 💬 Ask me about                 :  <br><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=24&letterSpacing=4px&duration=2000&pause=3000&color=A716FF&center=true&width=435&lines=%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4DIGITAL MANUPULATION;%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4DEFENSIVE SEC;%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4OFFENSIVE SEC" /></a>
   
 _______________________________________________________________________________________________________________________________
 
