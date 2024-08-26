@@ -51,4 +51,4 @@ ________________________________________________________________________________
 </p>
 <p align="center">
 <td><img align="center" height="150" src="https://github.com/psyclox/psyclox/assets/160267134/cb9941e6-0b7a-42fa-8c15-e920eb9f44d8" /></td></p>
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Englebert&weight=900&size=24&letterSpacing=4px&duration=1000&pause=1000&color=2B97FF&center=true&multiline=true&width=435&lines=ㅤㅤThank+you+for+visiting+" />/p><p align="center"><img src="https://readme-typing-svg.demolab.com?font=Englebert&weight=900&size=24&letterSpacing=4px&duration=1000&pause=1000&color=2B97FF&center=true&multiline=true&width=435&lines=ㅤHave+a+nice+day+mate!"/></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Englebert&weight=900&size=24&letterSpacing=4px&duration=1000&pause=1000&color=2B97FF&center=true&multiline=true&width=435&lines=ㅤㅤThank+you+for+visiting+" /p><p align="center"><img src="https://readme-typing-svg.demolab.com?font=Englebert&weight=900&size=24&letterSpacing=4px&duration=1000&pause=1000&color=2B97FF&center=true&multiline=true&width=435&lines=ㅤHave+a+nice+day+mate!"/></p>
