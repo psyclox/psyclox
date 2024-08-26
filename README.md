@@ -21,8 +21,8 @@ ________________________________________________________________________________
 <a href="mailto:karthikeyaneh@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/psyclox/psyclox-assets/main/doc/gmail%20zz.png" alt="mailto:karthicycr@gmail.com" height="40" width="40" /></a></p><p align="center">
 _______________________________________________________________________________________________________________________________</p>ㅤ
 
-ㅤ<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=24&letterSpacing=4px&duration=1200&pause=1000&color=FFFFFF&background=FF000000&center=true&repeat=false&width=435&lines=GITHUB+STATS" /> </p>ㅤ
-       ![](https://github-profile-trophy.vercel.app/?username=psyclox&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+ㅤ<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=24&letterSpacing=4px&duration=1200&pause=1000&color=FFFFFF&background=FF000000&center=true&repeat=false&width=435&lines=GITHUB+STATS" /> </p>ㅤ<p align="center">
+       ![](https://github-profile-trophy.vercel.app/?username=psyclox&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=psyclox&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats">
 </p><p align="center">
