@@ -1,7 +1,7 @@
 ![cover](https://github.com/psyclox/psyclox/assets/160267134/87615d1c-f010-4e65-a816-bfdecef187e5)
 <br>
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=24&letterSpacing=4px&duration=4000&pause=10000&color=A716FF&center=true&width=435&lines=KARTHIKEYAN;PSYCLOX"/></a>
+ <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=24&letterSpacing=4px&duration=4000&pause=8000&color=A716FF&center=true&width=435&lines=KARTHIKEYAN;PSYCLOX"/></a>
 </p>
 
   
@@ -19,9 +19,14 @@ ________________________________________________________________________________
 <h3 align="center">Connect Me With </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/karthikeyaneh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karthikeyancy" height="30" width="40" /></a>
-  <a href="https://t.me/legendary_lonewolf" target="blank"><img align="center" src="https://github.com/psyclox/psyclox/assets/160267134/06b14b8c-f3a9-410b-a533-e7c49855e011" alt="legendary_lonewolf" height="50" width="50" /></a> 
-<a href="mailto:karthikeyaneh@gmail.com" target="blank"><img align="center" src="https://github.com/psyclox/psyclox/assets/160267134/fa7e2c5b-966d-4925-b371-8b529da8cc73" alt="mailto:karthicycr@gmail.com" height="40" width="40" /></a>
+  <a href="https://t.me/legendary_lonewolf" target="blank"><img align="center" src="https://raw.githubusercontent.com/psyclox/psyclox-assets/main/doc/teleg%20meterial%20logo%20psyclox.png" alt="legendary_lonewolf" height="40" width="40" /></a> 
+<a href="mailto:karthikeyaneh@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/psyclox/psyclox-assets/main/doc/gmail-psyclox.png" alt="mailto:karthicycr@gmail.com" height="40" width="40" /></a>
 </p>
+
+
+
+
+
 
 [![](https://visitcount.itsvg.in/api?id=psyclox&icon=8&color=9)](https://visitcount.itsvg.in)
 
