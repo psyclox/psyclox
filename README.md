@@ -14,7 +14,7 @@
 <h4 align="center">
 💬  ASK ME ABOUT            </h4> <br><p align="center"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=24&letterSpacing=4px&duration=2000&pause=3000&color=A716FF&center=true&width=435&lines=DIGITAL MANUPULATION;DEFENSIVE SEC;OFFENSIVE SEC" /p></a>
 _______________________________________________________________________________________________________________________________
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=24&letterSpacing=4px&duration=1200&pause=1000&color=FFFFFFFF&center=true&repeat=false&width=435&lines=CONNECT+ME+WITH"  /p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=24&letterSpacing=4px&duration=1200&pause=1000&color=FFFFFFFF&center=true&repeat=false&width=435&lines=CONNECT+WITH+ME"  /p>
 <p align="center">
 <a href="https://www.linkedin.com/in/karthikeyaneh" target="blank"><img align="center" src="https://raw.githubusercontent.com/psyclox/psyclox-assets/main/doc/linked-in-logo.png" alt="https://www.linkedin.com/in/karthikeyancy" height="40" width="40" /></a> ㅤㅤ
   <a href="https://t.me/legendary_lonewolf" target="blank"><img align="center" src="https://raw.githubusercontent.com/psyclox/psyclox-assets/main/doc/tele-met-logo.png" alt="legendary_lonewolf" height="40" width="40" /></a> ㅤㅤ
