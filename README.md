@@ -1,14 +1,14 @@
 ![cover](https://github.com/psyclox/psyclox/assets/160267134/87615d1c-f010-4e65-a816-bfdecef187e5)
 <br>
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=24&letterSpacing=4px&duration=4000&pause=10000&color=A716FF&repeat=false&width=435&lines=%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4Karthikeyan;%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4psyclox"/></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=24&letterSpacing=4px&duration=4000&pause=10000&color=A716FF&center=true&width=435&lines=karthikeyan;psyclox"/></a>
 </p>
 
   
 <h3 align="center">A Engineering student | who is interested to identify the reason behind my obsession with programs</h3>
 <br>
 
-- 🔭 I’m currently working on     :  **CCNA & CEH**
+- 🔭 I’m currently working on     :  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=24&letterSpacing=4px&duration=3000&pause=2000&color=A716FF&width=435&lines=CCNA;CEH"/></a>
 
 - 🌱 I’m currently learning       :  **java, pentesting**
 
