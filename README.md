@@ -1,7 +1,7 @@
-![cover](https://github.com/psyclox/psyclox/assets/160267134/87615d1c-f010-4e65-a816-bfdecef187e5)
+![cover](https://raw.githubusercontent.com/psyclox/psyclox-assets/main/doc/cover%20pic.jpg?token=GHSAT0AAAAAACWSOG23PDTRZST7FMUB3IGKZWMOLMQ)
 <br>
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=24&letterSpacing=4px&duration=4000&pause=8000&color=A716FF&center=true&width=435&lines=KARTHIKEYAN;PSYCLOX"/></a>
+ <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=24&letterSpacing=4px&duration=3300&pause=8000&color=A716FF&center=true&width=435&lines=KARTHIKEYAN;PSYCLOX"/></a>
 </p>
 
   
@@ -50,5 +50,5 @@ ________________________________________________________________________________
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psyclox&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
 </p>
 <p align="center">
-<td><img align="center" height="150" src="https://github.com/psyclox/psyclox/assets/160267134/cb9941e6-0b7a-42fa-8c15-e920eb9f44d8" /></td></p>
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Englebert&weight=900&size=24&letterSpacing=4px&duration=1000&pause=1000&color=2B97FF&center=true&multiline=true&width=435&lines=ㅤㅤThank+you+for+visiting+" /p><p align="center"><img src="https://readme-typing-svg.demolab.com?font=Englebert&weight=900&size=24&letterSpacing=4px&duration=1000&pause=1000&color=2B97FF&center=true&multiline=true&width=435&lines=ㅤHave+a+nice+day+mate!"/></p>
+<td><img align="center" height="150" src="https://raw.githubusercontent.com/psyclox/psyclox-assets/main/doc/hello.gif?token=GHSAT0AAAAAACWSOG23WMC7P76VWYVP6TXOZWMOJGA" /></td></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Englebert&weight=900&size=24&letterSpacing=4px&duration=1000&pause=1000&color=2B97FF&center=true&multiline=true&width=435&lines=ㅤThank+you+for+visiting+" /p><p align="center"><img src="https://readme-typing-svg.demolab.com?font=Englebert&weight=900&size=24&letterSpacing=4px&duration=1000&pause=1000&color=2B97FF&center=true&multiline=true&width=435&lines=ㅤHave+a+nice+day+mate!"/></p>
