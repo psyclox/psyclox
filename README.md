@@ -31,7 +31,7 @@ ________________________________________________________________________________
 [![](https://visitcount.itsvg.in/api?id=psyclox&icon=8&color=9)](https://visitcount.itsvg.in)
 
 
-🏆 GitHub Trophies
+🏆 GITHHUB STATS
 ![](https://github-profile-trophy.vercel.app/?username=psyclox&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 <p align="center">
@@ -50,5 +50,5 @@ ________________________________________________________________________________
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psyclox&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
 </p>
 <p align="center">
-<td><img align="center" height="150" src="https://raw.githubusercontent.com/psyclox/psyclox-assets/main/doc/hello.gif?token=GHSAT0AAAAAACWSOG23WMC7P76VWYVP6TXOZWMOJGA" /></td></p>
+<td><img align="center" height="150" src="https://raw.githubusercontent.com/psyclox/psyclox-assets/main/doc/dance.gif" /></td></p>
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Englebert&weight=900&size=24&letterSpacing=4px&duration=1000&pause=1000&color=2B97FF&center=true&multiline=true&width=435&lines=ㅤThank+you+for+visiting+" /p><p align="center"><img src="https://readme-typing-svg.demolab.com?font=Englebert&weight=900&size=24&letterSpacing=4px&duration=1000&pause=1000&color=2B97FF&center=true&multiline=true&width=435&lines=ㅤHave+a+nice+day+mate!"/></p>
