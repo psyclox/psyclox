@@ -1,6 +1,10 @@
 ![cover](https://github.com/psyclox/psyclox/assets/160267134/87615d1c-f010-4e65-a816-bfdecef187e5)
+<br>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=24&letterSpacing=4px&duration=4000&pause=10000&color=A716FF&repeat=false&width=435&lines=Karthikeyan;psyclox"/></a>
+</p>
 
-<h1 align="center">Hi I'm Karthikeyan </h1>
+  
 <h3 align="center">A Engineering student | who is interested to identify the reason behind my obsession with programs</h3>
 <br>
 
