@@ -18,16 +18,11 @@ ______________________________________________</p>
 <a href="https://www.linkedin.com/in/karthikeyaneh" target="blank"><img align="center" src="https://raw.githubusercontent.com/psyclox/psyclox-assets/main/doc/linked-in-logo.png" alt="https://www.linkedin.com/in/karthikeyancy" height="40" width="40" /></a> ㅤㅤ
   <a href="https://t.me/legendary_lonewolf" target="blank"><img align="center" src="https://raw.githubusercontent.com/psyclox/psyclox-assets/main/doc/tele-met-logo.png" alt="legendary_lonewolf" height="40" width="40" /></a> ㅤㅤ
 <a href="mailto:karthikeyaneh@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/psyclox/psyclox-assets/main/doc/gmail%20zz.png" alt="mailto:karthicycr@gmail.com" height="40" width="40" /></a></p>
-ㅤ
-ㅤ<p align="center">
+</p><p align="center">
   <a href="https://github.com/psyclox?tab=repositories" target="_blank">
-    <img align="center" height="80" src="https://raw.githubusercontent.com/psyclox/psyclox-assets/main/doc/honybee.gif" />
+    <img align="center" height="100" src="https://raw.githubusercontent.com/psyclox/psyclox-assets/main/doc/butterfly.gif" />
   </a>
 </p>
-![butterfly](https://github.com/user-attachments/assets/a3019e54-4a53-46f6-ba09-b36908fbceed)
-![violet cockro](https://github.com/user-attachments/assets/6ae8b970-df09-483c-93c0-74322ff354f5)
-
-ㅤ
 ㅤ
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=24&letterSpacing=4px&duration=1200&pause=1000&color=FFFFFF&background=FF000000&center=true&repeat=false&width=435&lines=GITHUB+STATS" /> </p>ㅤ
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=psyclox&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4"></p>
