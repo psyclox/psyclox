@@ -14,7 +14,7 @@
 💬  ASK ME ABOUT            </h4> <br><p align="center"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=24&letterSpacing=4px&duration=2000&pause=1500&color=A716FF&center=true&width=435&lines=DIGITAL MANUPULATION;DEFENSIVE SEC;OFFENSIVE SEC" /p></a><p align="center">
 ______________________________________________</p>
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=24&letterSpacing=4px&duration=1200&pause=1000&color=FFFFFF&background=FF000000&center=true&repeat=false&width=435&lines=CLICK+DOWN+UNVEIL+MORE" /> </p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=24&letterSpacing=4px&duration=1200&pause=1000&color=2B97FF&background=FF000000&center=true&repeat=false&width=435&lines=CLICK+DOWN+UNVEIL+MORE" /> </p>
 <details style="margin-top: 0; margin-bottom: 0;"><summary><div align="center"><h2>CONNECT WITH ME</h2></div></summary>
 <p align="center">
 <a href="https://www.linkedin.com/in/karthikeyaneh" target="blank"><img align="center" src="https://raw.githubusercontent.com/psyclox/psyclox-assets/main/doc/linked-in-logo.png" alt="https://www.linkedin.com/in/karthikeyancy" height="40" width="40" /></a> ㅤㅤ
