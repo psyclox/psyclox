@@ -1,5 +1,5 @@
 ![cover](https://raw.githubusercontent.com/psyclox/psyclox-assets/refs/heads/main/doc/cover%20pic.jpg)
-<meta name="google-site-verification" content="_NXBMcAUFYUP7TsxkAdyFPC4Q-qRn6-_MKi4EWcISgo" />
+
 <br> ![](https://visitcount.itsvg.in/api?id=psyclox&icon=8&color=9)
 <p align="center">
  <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=24&letterSpacing=4px&duration=3300&pause=5000&color=A716FF&center=true&width=435&lines=KARTHIKEYAN;PSYCLOX"/></a>
