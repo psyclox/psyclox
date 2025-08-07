@@ -6,13 +6,12 @@
 </p><p align="center"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=23&letterSpacing=4px&duration=1200&pause=1000&color=2B97FF&background=FF000000&center=true&multiline=true&repeat=false&width=435&lines=Identifying+the+reason"  /></a></p><p align="center"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=23&letterSpacing=4px&duration=1200&pause=1000&color=2B97FF&background=FF000000&center=true&multiline=true&repeat=false&width=435&lines=behind+my+obsession"  /></a></p>
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=23&letterSpacing=4px&duration=1200&pause=1000&color=2B97FF&background=FF000000&center=true&multiline=true&repeat=false&width=435&lines=with+cyberworld+exploits"  /></a></p><br>
 <h3 align="center">
-🔭  I'M CURRENTLY WORKING ON </h3><br><p align="center"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=24&letterSpacing=4px&duration=2000&pause=1500&color=A716FF&center=true&width=435&lines=JAVA;PENTESTING;PTES"/p>
+🔭  I'M CURRENTLY WORKING ON </h3><br><p align="center"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=24&letterSpacing=4px&duration=2000&pause=1500&color=A716FF&center=true&width=435&lines=CONFIDENTIAL"/p>
 
 <h3 align="center">
-🌱  I'M CURRENTLY LEARNING    </h3> <br><p align="center"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=24&letterSpacing=4px&duration=2500&pause=1000&color=A716FF&center=true&width=435&lines=CCNA;CEH;CPENT"/p>
+🌱  I'M CURRENTLY LEARNING    </h3> <br><p align="center"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=24&letterSpacing=4px&duration=2500&pause=1000&color=A716FF&center=true&width=435&lines=OSCP;CPENT"/p> <br>
     
-<h3 align="center">
-💬  ASK ME ABOUT            </h3> <br><p align="center"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=24&letterSpacing=4px&duration=2000&pause=1500&color=A716FF&center=true&width=435&lines=DIGITAL MANUPULATION;DEFENSIVE SEC;OFFENSIVE SEC" /p></a><p align="center">
+</a><p align="center">
 ______________________________________________</p>
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=24&letterSpacing=4px&duration=1200&pause=1000&color=FFFFFFFF&center=true&repeat=false&width=435&lines=CONNECT+WITH+ME"  /p>
 <p align="center">
@@ -48,4 +47,4 @@ ______________________________________________</p>
     <img align="center" height="150" src="https://raw.githubusercontent.com/psyclox/psyclox-assets/main/doc/ui-shigure-ui-chanm.gif" />
   </a>
 </p>
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Englebert&weight=900&size=24&letterSpacing=4px&duration=1000&pause=1000&color=2B97FF&center=true&multiline=true&width=435&lines=ㅤHave+a+nice+day,+mate!"/></p>
+
