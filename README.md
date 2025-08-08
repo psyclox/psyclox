@@ -1,4 +1,4 @@
-![cover](https://raw.githubusercontent.com/psyclox/psyclox-assets/refs/heads/main/doc/cover%20pic.jpg)
+![cover](https://raw.githubusercontent.com/psyclox/psyclox-assets/refs/heads/main/doc/cover%20pic.png)
 
 <br> ![](https://visitcount.itsvg.in/api?id=psyclox&icon=8&color=9)
 <p align="center"> 
