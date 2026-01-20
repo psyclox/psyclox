@@ -1,4 +1,6 @@
-![cover](https://raw.githubusercontent.com/psyclox/psyclox-assets/refs/heads/main/doc/dhj.png)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/psyclox/psyclox-assets/refs/heads/main/doc/cool.gif" alt="Cover GIF" width="70%">
+</div>
 
 <br> ![](https://visitcount.itsvg.in/api?id=psyclox&icon=8&color=9)
 <p align="center"> 
