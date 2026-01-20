@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/psyclox/psyclox-assets/refs/heads/main/doc/cool.gif" alt="Cover GIF" width="70%">
+  <img src="https://raw.githubusercontent.com/psyclox/psyclox-assets/refs/heads/main/doc/cool.gif" alt="Cover GIF" width="100%">
 </div>
 
 <br> ![](https://visitcount.itsvg.in/api?id=psyclox&icon=8&color=9)
