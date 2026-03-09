@@ -41,8 +41,10 @@ ______________________________________________</p>
 ㅤ
 ㅤ
 <p align="center">
-  <a href="https://github.com/psyclox/psyclox-assets/tree/main" target="_blank">
-    <img align="center" height="150" src="https://raw.githubusercontent.com/psyclox/psyclox-assets/main/doc/ui-shigure-ui-chanm.gif" />
+  <a href="https://open.spotify.com/playlist/34AmT24Hy3PTS3OTfRZhie?si=t5cV65jNSJi5RuQ8cmH8bg" target="_blank">
+    <img align="center" height="150" src="https://raw.githubusercontent.com/psyclox/psyclox-assets/main/doc/ui-shigure-ui-chanm.gif" /></a>
+</p>  <p align="center">
+  <a href="https://open.spotify.com/playlist/2jSp2djyypOUnawVKRQOlm?si=rlXiX9JCRD2BG93IlobZUA" target="_blank">
     <img align="center" height="150" src="https://raw.githubusercontent.com/psyclox/psyclox-assets/main/doc/music-wave.svg" />
   </a>
 </p>
