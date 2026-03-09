@@ -18,10 +18,10 @@ ______________________________________________</p>
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=24&letterSpacing=4px&duration=1200&pause=1000&color=FFFFFFFF&center=true&repeat=false&width=435&lines=CONNECT+WITH+ME"  /p>
 <p align="center">
 <a href="https://www.linkedin.com/in/karthikeyaneh" target="blank"><img align="center" src="https://raw.githubusercontent.com/psyclox/psyclox-assets/main/doc/linked-in-logo.png" alt="https://www.linkedin.com/in/karthikeyancy" height="40" width="40" /></a> ㅤㅤ
- ㅤㅤ
+ <a href="https://psyclox.github.io/portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/psyclox/psyclox-assets/refs/heads/main/doc/psyclox8.png" height="80" width="80" /></a> ㅤㅤ
 <a href="mailto:karthikeyaneh@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/psyclox/psyclox-assets/main/doc/gmail%20zz.png" alt="mailto:karthicycr@gmail.com" height="40" width="40" /></a></p>
 </p><p align="center">
-  <a href="https://github.com/psyclox/cloud-crypt" target="_blank">
+  <a href="https://github.com/psyclox/cl0ud-crypt" target="_blank">
     <img align="center" height="100" src="https://raw.githubusercontent.com/psyclox/psyclox-assets/main/doc/butterfly.gif" />
   </a>
 </p>
@@ -43,6 +43,8 @@ ______________________________________________</p>
 <p align="center">
   <a href="https://github.com/psyclox/psyclox-assets/tree/main" target="_blank">
     <img align="center" height="150" src="https://raw.githubusercontent.com/psyclox/psyclox-assets/main/doc/ui-shigure-ui-chanm.gif" />
+    <img align="center" height="150" src="https://raw.githubusercontent.com/psyclox/psyclox-assets/main/doc/music-wave.svg" />
   </a>
 </p>
 
+ 
