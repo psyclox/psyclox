@@ -30,7 +30,11 @@ ______________________________________________</p>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=psyclox&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"></p>
 
 
+## 🐍 Contribution Graph
+<!-- 3D Contributions -->
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="700" alt="3D Contributions (dark)" />
 
+---
 
   ㅤ  
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=24&letterSpacing=4px&duration=1200&pause=1000&color=FFFFFF&background=FF000000&center=true&repeat=false&width=435&lines=LANGUAGES+AND+TOOLS" /> </p>
