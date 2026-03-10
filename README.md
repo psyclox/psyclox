@@ -1,8 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/psyclox/psyclox-assets/refs/heads/main/doc/cool.gif" alt="Cover GIF" width="100%">
 </div>
-
-<br> ![](https://visitcount.itsvg.in/api?id=psyclox&icon=8&color=9)
+<br>
 <p align="center"> 
  <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=24&letterSpacing=4px&duration=3300&pause=5000&color=A716FF&center=true&width=435&lines=KARTHIKEYAN;PSYCLOX"/></a>
 </p><p align="center"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=23&letterSpacing=4px&duration=1200&pause=1000&color=2B97FF&background=FF000000&center=true&multiline=true&repeat=false&width=435&lines=Identifying+the+reason"  /></a></p><p align="center"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=23&letterSpacing=4px&duration=1200&pause=1000&color=2B97FF&background=FF000000&center=true&multiline=true&repeat=false&width=435&lines=behind+my+obsession"  /></a></p>
@@ -25,16 +24,7 @@ ______________________________________________</p>
     <img align="center" height="100" src="https://raw.githubusercontent.com/psyclox/psyclox-assets/main/doc/butterfly.gif" />
   </a>
 </p>
-ㅤ
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=24&letterSpacing=4px&duration=1200&pause=1000&color=FFFFFF&background=FF000000&center=true&repeat=false&width=435&lines=GITHUB+STATS" /> ㅤ
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="700" alt="3D Contributions (dark)" />
-</p>
-
-  ㅤ  
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=24&letterSpacing=4px&duration=1200&pause=1000&color=FFFFFF&background=FF000000&center=true&repeat=false&width=435&lines=LANGUAGES+AND+TOOLS" /> </p>
-<p align="center"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a>ㅤㅤ <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>ㅤㅤ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>ㅤㅤ <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>ㅤㅤㅤ<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="35" height="35"/></a>ㅤㅤㅤ<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>ㅤㅤ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>ㅤㅤㅤ<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://github.com/psyclox/psyclox/assets/160267134/1e901d8e-c28c-4fde-ad13-a0339797e6d5" alt="photoshop" width="40" height="40"/></a>ㅤㅤㅤ<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>  </p>
-<p align="center">
  ㅤㅤ
 
   
@@ -85,7 +75,30 @@ ______________________________________________</p>
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/psyclox/psyclox-assets/main/doc/icon/wireshark.svg" alt="wireshark" width="40" height="40"/></a>ㅤㅤ
   <a href="https://wpscan.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/psyclox/psyclox-assets/main/doc/icon/wpscan-logo.svg" alt="wpscan" width="40" height="40"/></a>
 </p>
+
+
+
 ㅤ
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=24&letterSpacing=4px&duration=1200&pause=1000&color=FFFFFF&background=FF000000&center=true&repeat=false&width=435&lines=LANGUAGES+AND+TOOLS" /> </p>
+
+<p align="center"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a>ㅤㅤ <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>ㅤㅤ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>ㅤㅤ <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>ㅤㅤㅤ<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="35" height="35"/></a>ㅤㅤㅤ<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>ㅤㅤ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>ㅤㅤㅤ<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://github.com/psyclox/psyclox/assets/160267134/1e901d8e-c28c-4fde-ad13-a0339797e6d5" alt="photoshop" width="40" height="40"/></a>ㅤㅤㅤ<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>  </p>
+<p align="center">
+
+<br>
+
+
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=24&letterSpacing=4px&duration=1200&pause=1000&color=FFFFFF&background=FF000000&center=true&repeat=false&width=435&lines=GITHUB+STATS" /> ㅤ
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="700" alt="3D Contributions (dark)" />
+</p>
+
+
+
+
+
+<br>
+  
+  <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=24&letterSpacing=4px&duration=1200&pause=1000&color=FFFFFF&background=FF000000&center=true&repeat=false&width=435&lines=CLICK+BELOW" /> </p>ㅤ
 
 <p align="center">
   <a href="https://open.spotify.com/playlist/34AmT24Hy3PTS3OTfRZhie?si=t5cV65jNSJi5RuQ8cmH8bg" target="_blank">
