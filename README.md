@@ -28,7 +28,7 @@ ______________________________________________</p>
  ㅤㅤ
 
   
-  <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=24&letterSpacing=4px&duration=1200&pause=1000&color=FFFFFF&background=FF000000&center=true&repeat=false&width=435&lines=SECURITY+AND+PENTESTING+TOOLS" /> </p>
+  <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=24&letterSpacing=4px&duration=1200&pause=1000&color=FFFFFF&background=FF000000&center=true&repeat=false&width=435&lines=PENTESTING+TOOLS" /> </p>
 
 <p align="center">
   <a href="https://www.aircrack-ng.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/psyclox/psyclox-assets/main/doc/icon/aircrack-ng-logo.svg" alt="aircrack-ng" width="40" height="40"/></a>ㅤㅤ
