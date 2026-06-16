@@ -142,8 +142,3 @@ ______________________________________________</p>
 </p>
 
 
-jun 16 
-
-https://miro.com/app/board/uXjVHSDbkHc=/?inviteKey=NmtkVkhaM2FRRE5HSitvTXN6eW5BbS9UNEc4WjdLUTRyTjZpcmx6QUx6RXFKMzhNSkpDUGF4anhFallzSUJKWDVZblM3RXh2Y01INVBpV0tmQmlMcnNZQ05XTzBWZlJmQXB4d0lNNHZYNk9oWURQRlkrbVVIekRUK2xVS0lGaXVnbHpza3F6REdEcmNpNEFOMmJXWXBBPT0hdjE%3D
-
- 
